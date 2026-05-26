@@ -1,85 +1,130 @@
-<h1 align="center">Hey, I'm Kalyan 👋</h1>
-
-<p align="center">
-  <b>Full Stack Developer</b> &nbsp;·&nbsp; Freelancer &nbsp;·&nbsp; Open to Full-Time Roles
-</p>
-
-<p align="center">
-  <a href="https://kalyangk.online" target="_blank">🌐 Portfolio</a> &nbsp;·&nbsp;
-  <a href="mailto:kalyangk777@gmail.com">📧 Email</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/guraka-kalyan" target="_blank">💼 LinkedIn</a>
-</p>
-
----
-
-## About Me
-
-I'm a full stack developer from Tirupati, India — currently freelancing and open to full-time opportunities.
-
-I build end-to-end web applications: from designing the UI to deploying on AWS. I work across the stack and pick up what the project needs.
-
-- 🔨 &nbsp;Currently building a **Retail Meat Shop Management System** (React + Node.js + MongoDB + AWS EC2)
-- ☕ &nbsp;Learning **Java Full Stack** (Spring Boot, DSA, system design)
-- 🐍 &nbsp;Built production projects in **Python** (ML/AI, Flask, TensorFlow)
-- 💼 &nbsp;Freelancing under **Trident** — a small dev team I work with
-- 📍 &nbsp;Based in Tirupati, AP, India
-
----
-
-## Tech Stack
-
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-
-**Database & Cloud**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-## Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [🥩 Pinaka Retail Management](https://github.com/Guraka-Kalyan/pinka-retail-management) | Full shop management system for a retail meat business — inventory, sales, dressing, reports | React · Node.js · MongoDB · AWS |
-| [📚 LMS Trident](https://github.com/Guraka-Kalyan/LMS-trident) | Learning management system with course and user management | TypeScript · React · Node.js |
-| [🚚 Logistic Tracking](https://github.com/Guraka-Kalyan/logistic-tracking) | Real-time logistics and delivery tracking dashboard | TypeScript · React |
-| [🧠 Insight AI](https://kalyangk.online) | Multimodal emotion recognition using facial analysis | Python · Flask · TensorFlow · Next.js |
-| [📊 Venturemond Dashboard](https://github.com/Guraka-Kalyan/venturemond-clientdashboard) | Internal client dashboard built during internship | TypeScript · React |
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guraka-Kalyan&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guraka-Kalyan&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
----
-
-## Currently
+<div align="center">
 
 ```
-📌  Completing Pinaka Retail Management System
-☕  Java Full Stack — Spring Boot, DSA
-🎯  Open to: Full-time roles | Freelance projects | Internships
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║         hey, I'm Kalyan — I build things for the web     ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
 ```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+%7C+Python+%7C+AWS;Freelancer+%40+Trident;Building+products+that+actually+work)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>If you like what you see, let's connect.</i><br/>
-  <a href="mailto:kalyangk777@gmail.com">kalyangk777@gmail.com</a>
-</p>
+## 👨‍💻 About Me
+
+```javascript
+const kalyan = {
+  name:       "Guraka Kalyan",
+  alias:      "GK",
+  location:   "Tirupati → Bengaluru, India 🇮🇳",
+  team:       "Trident (Freelance)",
+  role:       "Full Stack Developer",
+  building:   "Pinaka — Retail Meat Shop Management System",
+  learning:   ["System Design", "Docker", "AWS EC2"],
+  contact:    "kalyangk777@gmail.com",
+  portfolio:  "kalyangk.online",
+};
+```
+
+> I build **end-to-end web systems** — from pixel-perfect UIs to production-ready backends.  
+> Currently freelancing under **Trident**, shipping real products for real clients.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🥩 Pinaka — Retail Meat Shop Management System
+> Full-stack business management platform for a retail meat shop  
+> `React` `Tailwind` `Shadcn/ui` `Node.js` `Express` `MongoDB` `AWS EC2` `Docker` `Nginx`
+
+- 6-module system: Dashboard · Dressing · Inventory · Shop · Sales · Reports
+- Production deployment on AWS EC2 with Docker + Nginx reverse proxy
+- Built as part of Trident freelance team (Dev + DevOps + Frontend)
+
+---
+
+### 🧠 Insight AI — Multimodal Emotion Recognition
+> Real-time emotion detection from facial expressions using deep learning  
+> `Python` `Flask` `TensorFlow` `OpenCV` `FER` `Next.js` `AWS EC2` `Vercel`
+
+- Multimodal input: webcam + image upload
+- REST API backend, Next.js frontend, Cloudflare subdomain on `kalyangk.online`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Guraka-Kalyan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Guraka-Kalyan&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Guraka-Kalyan&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+
+</div>
+
+---
+
+## 📜 Certifications
+
+- 🐍 **The Complete Python Bootcamp** — Udemy
+- 📊 **Tata GenAI-Powered Data Analytics** — Job Simulation
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guraka-kalyan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kalyangk.online)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalyangk777@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────┐
+│  Open to freelance projects & collabs   │
+│  DM me. Let's build something real. ⚡  │
+└─────────────────────────────────────────┘
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=Guraka-Kalyan&color=00d9ff&style=flat-square)
+
+</div>
