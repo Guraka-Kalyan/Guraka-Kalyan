@@ -14,24 +14,30 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🃏 About Me
 
-```javascript
-const kalyan = {
-  name:       "Guraka Kalyan",
-  alias:      "GK",
-  location:   "Tirupati → Bengaluru, India 🇮🇳",
-  team:       "Trident (Freelance)",
-  role:       "Full Stack Developer",
-  building:   "Pinaka — Retail Meat Shop Management System",
-  learning:   ["System Design", "Docker", "AWS EC2"],
-  contact:    "kalyangk777@gmail.com",
-  portfolio:  "kalyangk.online",
-};
-```
+<table>
+<tr>
+<td><b>Role</b></td><td>Full Stack Developer</td>
+<td><b>Team</b></td><td>Trident (Freelance)</td>
+</tr>
+<tr>
+<td><b>Stack</b></td><td>Java · Python · MERN</td>
+<td><b>Location</b></td><td>Tirupati → Bengaluru 🇮🇳</td>
+</tr>
+<tr>
+<td><b>Contact</b></td><td>kalyangk777@gmail.com</td>
+<td><b>Portfolio</b></td><td>kalyangk.online</td>
+</tr>
+</table>
+
+### 🟢 Open to
+![Freelance](https://img.shields.io/badge/Freelance_Projects-Available-2e7d32?style=flat-square)
+![Full Time](https://img.shields.io/badge/Full_Time_Roles-Open-1565c0?style=flat-square)
+![Collabs](https://img.shields.io/badge/Collabs_%26_Side_Projects-Yes-e65100?style=flat-square)
 
 > I build **end-to-end web systems** — from pixel-perfect UIs to production-ready backends.  
-> Currently freelancing under **Trident**, shipping real products for real clients.
+> Freelancing under **Trident** · shipping real products for real clients.
 
 ---
 
